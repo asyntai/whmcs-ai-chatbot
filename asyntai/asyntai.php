@@ -38,7 +38,7 @@ function asyntai_config()
             . 'languages. It can also read your WHMCS knowledge base.',
         'author' => 'Asyntai',
         'language' => 'english',
-        'version' => '1.0.0',
+        'version' => '1.0.1',
         'fields' => array(
             'show_on_client_area' => array(
                 'FriendlyName' => 'Show on client area',

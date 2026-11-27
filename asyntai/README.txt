@@ -7,7 +7,7 @@ your WHMCS knowledge base, so the answers match what you have already written.
 
 Requirements
 ------------
-- WHMCS 7.0 or newer
+- WHMCS 8.0 or newer
 - PHP 7.2 or newer, with cURL
 - The server must be able to reach https://asyntai.com over HTTPS
 - An Asyntai account. Creating one is free, and the free plan works.
@@ -61,4 +61,5 @@ Email:  hello@asyntai.com
 
 Changelog
 ---------
+1.0.1 - Compatibility with WHMCS 9.1 and PHP 8.4.
 1.0.0 - First release.

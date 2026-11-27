@@ -103,7 +103,7 @@ class Asyntai_Client
             'token' => self::token(),
             'system_url' => self::systemUrl(),
             'whmcs_version' => $whmcsVersion,
-            'module_version' => '1.0.0',
+            'module_version' => '1.0.1',
         ));
 
         if ($result['ok']) {
